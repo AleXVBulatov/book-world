@@ -1,0 +1,21 @@
+.about {
+  padding: 30px 0;
+  @media (max-width: 1420px) {
+    padding-right: 15px;
+  }
+}
+
+.text {
+  line-height: 18px;
+  text-align: justify;
+
+  p:not(:last-child) {
+    margin-bottom: 20px;
+  }
+
+  p.decorate {
+    font-style: italic;
+    margin-bottom: 5px;
+    font-weight: 500;
+  }
+}
