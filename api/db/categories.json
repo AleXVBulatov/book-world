@@ -11,13 +11,13 @@
   },
   {
     "id": 3,
-    "slug": "educational_literature",
-    "name": "Позновательная литература"
+    "slug": "gift_editions",
+    "name": "Подарочные издания"
   },
   {
     "id": 4,
-    "slug": "gift_editions",
-    "name": "Подарочные издания"
+    "slug": "educational_literature",
+    "name": "Позновательная литература"
   },
   {
     "id": 5,

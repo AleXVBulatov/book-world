@@ -42,7 +42,7 @@ const SingleCategory = () => {
   }, [slug, amount, dispatch, value]);
 
   return isLoading ? (
-    <div className={styles.preloader}>Loading...авава</div>
+    <div className={styles.preloader}>Loading...</div>
   ) : isSuccess && !data.length ? (
     <div className={styles.back}>По вашему запросу ничего не найдено</div>
   ) : !isSuccess ? (

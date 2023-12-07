@@ -1,5 +1,13 @@
 @import "../../scss/variables.scss";
 
+.back {
+  width: 100%;
+  margin-top: 50px;
+  text-align: center;
+  font-size: 20px;
+  color: $color-primary;
+}
+
 .column {
   // display: flex;
   // flex-direction: column;

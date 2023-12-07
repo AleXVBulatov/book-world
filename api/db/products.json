@@ -27,7 +27,7 @@
         "Язык": "Русский"
       },
       "year": {
-        "Год написания": 1953
+        "Год издания": 2020
       }
     },
     "rating": "4.2",
@@ -38,8 +38,12 @@
     "id": "9c023aa0-618d-463e-be56-cc8b4fbf88f2",
     "author": "Рэй Брэдбери",
     "title": "451' по Фаренгейту",
-    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure assumenda voluptatum, obcaecati quas nobis quidem esse iusto sit voluptate asperiores maiores, tempora repellendus velit dolorem hic distinctio. Necessitatibus, dolorem! Quas distinctio deserunt voluptatem tempore, nam unde doloremque molestias fugit magni autem obcaecati earum sint explicabo! Ipsa, nostrum.",
-    "images": ["https://balka-book.com/files/2021/08_24/15_17/u_files_store_6_345.jpg"],
+    "description": "Fahrenheit 451) — научно-фантастический роман-антиутопия Рэя Брэдбери, изданный в 1953 году. Роман описывает американское общество близкого будущего, в котором книги находятся под запретом; «пожарные», к числу которых принадлежит и главный герой Гай Монтэг, сжигают любые найденные книги.",
+    "images": [
+      "https://balka-book.com/files/2021/08_24/15_17/u_files_store_6_345.jpg",
+      "https://cdn.pixabay.com/photo/2015/11/19/21/10/glasses-1052010_1280.jpg",
+      "https://cdn.pixabay.com/photo/2016/03/27/19/32/book-1283865_1280.jpg"
+    ],
     "category": {
       "slug": "fiction",
       "name": "Художественная литература"
@@ -52,13 +56,13 @@
         "Количество страниц": 272
       },
       "cover": {
-        "Переплет": "Мягкая"
+        "Переплет": "Мягкий"
       },
       "language": {
         "Язык": "Украинский"
       },
       "year": {
-        "Год написания": 1953
+        "Год издания": 2021
       }
     },
     "rating": "3.6",
@@ -70,7 +74,11 @@
     "author": "Рэй Брэдбери",
     "title": "451' по Фаренгейту",
     "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure assumenda voluptatum, obcaecati quas nobis quidem esse iusto sit voluptate asperiores maiores, tempora repellendus velit dolorem hic distinctio. Necessitatibus, dolorem! Quas distinctio deserunt voluptatem tempore, nam unde doloremque molestias fugit magni autem obcaecati earum sint explicabo! Ipsa, nostrum.",
-    "images": ["https://content2.rozetka.com.ua/goods/images/big/252848068.jpg"],
+    "images": [
+      "https://content2.rozetka.com.ua/goods/images/big/252848068.jpg",
+      "https://cdn.pixabay.com/photo/2015/11/19/21/10/glasses-1052010_1280.jpg",
+      "https://cdn.pixabay.com/photo/2016/03/27/19/32/book-1283865_1280.jpg"
+    ],
     "category": {
       "slug": "fiction",
       "name": "Художественная литература"
@@ -83,13 +91,13 @@
         "Количество страниц": 256
       },
       "cover": {
-        "Переплет": "Мягкая"
+        "Переплет": "Мягкий"
       },
       "language": {
         "Язык": "Английский"
       },
       "year": {
-        "Год написания": 1953
+        "Год издания": 2017
       }
     },
     "rating": "4.0",
@@ -97,191 +105,287 @@
     "qty": 0
   },
   {
-    "id": "439035c3-3c02-4e21-a03e-56f228adb960",
-    "author": "Рэй Брэдбери",
-    "title": "451' по Фаренгейту",
-    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure assumenda voluptatum, obcaecati quas nobis quidem esse iusto sit voluptate asperiores maiores, tempora repellendus velit dolorem hic distinctio. Necessitatibus, dolorem! Quas distinctio deserunt voluptatem tempore, nam unde doloremque molestias fugit magni autem obcaecati earum sint explicabo! Ipsa, nostrum.",
-    "images": ["https://content2.rozetka.com.ua/goods/images/big/337429203.jpg"],
+    "id": "hj610dd0-443e-41cc-b367-923536468583",
+    "author": "Стивен Кинг",
+    "title": "11/22/63",
+    "description": "...Убийство президента Кеннеди стало самым трагическим событием американской истории ХХ века. Тайна его до сих пор не раскрыта. Но что, если случится чудо? Если появится возможность отправиться в прошлое и предотвратить катастрофу? Это предстоит выяснить обычному учителю из маленького городка Джейку Эппингу, получившему доступ к временному порталу. Его цель — спасти Кеннеди. Но какова будет цена спасения?",
+    "images": [
+      "https://images.prom.ua/3778747871_w640_h640_112263-stiven-king.jpg",
+      "https://cdn.pixabay.com/photo/2015/11/19/21/10/glasses-1052010_1280.jpg",
+      "https://cdn.pixabay.com/photo/2016/03/27/19/32/book-1283865_1280.jpg"
+    ],
     "category": {
       "slug": "fiction",
       "name": "Художественная литература"
     },
     "other": {
       "genre": {
-        "Жанр": "Фантастика"
+        "Жанр": "Мистика"
       },
       "pages": {
-        "Количество страниц": 256
+        "Количество страниц": 432
       },
       "cover": {
-        "Переплет": "Твердая"
+        "Переплет": "Мягкий"
       },
       "language": {
         "Язык": "Русский"
       },
       "year": {
-        "Год написания": 1953
+        "Год издания": 2019
       }
     },
-    "rating": "2.4",
-    "price": 300,
-    "qty": 4
+    "rating": "4.2",
+    "price": 290,
+    "qty": 0
   },
+
   {
-    "id": "c6b40d2f-102a-4db4-ada0-503a6b910aeb",
-    "author": "Рэй Брэдбери",
-    "title": "451' по Фаренгейту",
-    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure assumenda voluptatum, obcaecati quas nobis quidem esse iusto sit voluptate asperiores maiores, tempora repellendus velit dolorem hic distinctio. Necessitatibus, dolorem! Quas distinctio deserunt voluptatem tempore, nam unde doloremque molestias fugit magni autem obcaecati earum sint explicabo! Ipsa, nostrum.",
-    "images": ["https://balka-book.com/files/2021/08_24/15_17/u_files_store_6_345.jpg"],
+    "id": "439035c3-3c02-4e21-a03e-56f228adb960",
+    "author": "Дэн Браун",
+    "title": "Происхождение",
+    "description": "Роберт Лэнгдон прибывает в музей Гуггенхайма в Бильбао по приглашению друга и бывшего студента Эдмонда Кирша. Миллиардер и компьютерный гуру, он известен своими удивительными открытиями и предсказаниями. И этим вечером Кирш собирается 'перевернуть все современные научные представления о мире', дав ответ на два главных вопроса, волнующих человечество на протяжении всей истории: Откуда мы? Что нас ждет? Однако прежде чем Эдмонд успевает сделать заявление, роскошный прием превращается в хаос. Лэнгдону и директору музея, красавице Амбре Видаль, чудом удается бежать. Теперь их путь лежит в Барселону, где Кирш оставил для своего учителя закодированный ключ к тайне, способной потрясти сами основы представлений человечества о себе. Тайне, которая была веками похоронена во тьме забвения. Тайне, которой, возможно, лучше бы никогда не увидеть света, — по крайней мере, так считают те, кто преследует Лэнгдона и Видаль и готов на все, чтобы помешать им раскрыть истину.",
+    "images": [
+      "https://images.prom.ua/4051261907_w640_h640_proishozhdenie-den-braun.jpg",
+      "https://cdn.pixabay.com/photo/2015/11/19/21/10/glasses-1052010_1280.jpg",
+      "https://cdn.pixabay.com/photo/2016/03/27/19/32/book-1283865_1280.jpg"
+    ],
     "category": {
-      "slug": "educational_literature",
+      "slug": "fiction",
       "name": "Художественная литература"
     },
     "other": {
       "genre": {
-        "Жанр": "Фантастика"
+        "Жанр": "Детектив"
       },
       "pages": {
-        "Количество страниц": 272
+        "Количество страниц": 576
       },
       "cover": {
-        "Переплет": "Твердая"
+        "Переплет": "Твердый"
       },
       "language": {
-        "Язык": "Украинский"
+        "Язык": "Русский"
       },
       "year": {
-        "Год написания": 1953
+        "Год издания": 2020
       }
     },
-    "rating": "1.6",
-    "price": 300,
+    "rating": "4.7",
+    "price": 490,
+    "qty": 7
+  },
+  {
+    "id": "c6b40d2f-102a-4db4-ada0-503a6b910aeb",
+    "author": "Дэн Браун",
+    "title": "Инферно",
+    "description": "…Оказавшись в самом загадочном городе Италии – Флоренции, профессор Лэнгдон, специалист по кодам, символам и истории искусства, неожиданно попадает в водоворот событий, которые способны привести к гибели все человечество … И помешать этому может только разгадка тайны, некогда зашифрованной Данте в строках бессмертной эпической поэмы…",
+    "images": [
+      "https://images.prom.ua/3881264676_w640_h640_inferno-den-braun.jpg",
+      "https://cdn.pixabay.com/photo/2015/11/19/21/10/glasses-1052010_1280.jpg",
+      "https://cdn.pixabay.com/photo/2016/03/27/19/32/book-1283865_1280.jpg"
+    ],
+    "category": {
+      "slug": "fiction",
+      "name": "Художественная литература"
+    },
+    "other": {
+      "genre": {
+        "Жанр": "Детектив"
+      },
+      "pages": {
+        "Количество страниц": 544
+      },
+      "cover": {
+        "Переплет": "Твердый"
+      },
+      "language": {
+        "Язык": "Русский"
+      },
+      "year": {
+        "Год издания": 2021
+      }
+    },
+    "rating": "4.7",
+    "price": 390,
     "qty": 1
   },
   {
     "id": "cc53002e-d26b-49ce-98d0-7eae2ff9368b",
-    "author": "Рэй Брэдбери",
-    "title": "451' по Фаренгейту",
-    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure assumenda voluptatum, obcaecati quas nobis quidem esse iusto sit voluptate asperiores maiores, tempora repellendus velit dolorem hic distinctio. Necessitatibus, dolorem! Quas distinctio deserunt voluptatem tempore, nam unde doloremque molestias fugit magni autem obcaecati earum sint explicabo! Ipsa, nostrum.",
-    "images": ["https://content2.rozetka.com.ua/goods/images/big/252848068.jpg"],
+    "author": "Дэн Браун",
+    "title": "Код да Винчи",
+    "description": "Секретный код скрыт в работах Леонардо да Винчи… Только он поможет найти христианские святыни, дававшие немыслимые власть и могущество… Ключ к величайшей тайне, над которой человечество билось веками, может быть найден… В романе «Код да Винчи» автор собрал весь накопленный опыт расследований и вложил его в главного героя, гарвардского профессора иконографии и истории религии по имени Роберт Лэнгдон. Завязкой нынешней истории послужил ночной звонок, оповестивший Лэнгдона об убийстве в Лувре старого хранителя музея. Возле тела убитого найдена зашифрованная записка, ключи к которой сокрыты в работах Леонардо да Винчи…",
+    "images": [
+      "https://images.prom.ua/4045517676_w640_h640_kod-da-vinchi.jpg",
+      "https://cdn.pixabay.com/photo/2015/11/19/21/10/glasses-1052010_1280.jpg",
+      "https://cdn.pixabay.com/photo/2016/03/27/19/32/book-1283865_1280.jpg"
+    ],
     "category": {
-      "slug": "gift_editions",
+      "slug": "fiction",
       "name": "Художественная литература"
     },
     "other": {
       "genre": {
-        "Жанр": "Фантастика"
+        "Жанр": "Детектив"
       },
       "pages": {
-        "Количество страниц": 256
+        "Количество страниц": 544
       },
       "cover": {
-        "Переплет": "Твердая"
+        "Переплет": "Твердый"
       },
       "language": {
-        "Язык": "Английский"
+        "Язык": "Русский"
       },
       "year": {
-        "Год написания": 1953
+        "Год издания": 2015
       }
     },
-    "rating": "0.5",
-    "price": 142,
-    "qty": 2
+    "rating": "4.9",
+    "price": 420,
+    "qty": 10
   },
   {
     "id": "0176ce3e-61d0-4940-9505-55b8a359081a",
-    "author": "Рэй Брэдбери",
-    "title": "451' по Фаренгейту",
-    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure assumenda voluptatum, obcaecati quas nobis quidem esse iusto sit voluptate asperiores maiores, tempora repellendus velit dolorem hic distinctio. Necessitatibus, dolorem! Quas distinctio deserunt voluptatem tempore, nam unde doloremque molestias fugit magni autem obcaecati earum sint explicabo! Ipsa, nostrum.",
-    "images": ["https://content2.rozetka.com.ua/goods/images/big/337429203.jpg"],
+    "author": "Дэн Браун",
+    "title": "Ангелы и демоны",
+    "description": "Дуальность человеческой природы – это основы мироздания в целом. В каждом из нас есть светлая и темная сторона. Ангелы и демоны на протяжении многих веков ведут противостояние за человеческую душу. Изощренные хитросплетения лукавых всесильно стараются очернить невинные души. Силы соблазна столь велики, что даже ангелы непосредственно поддаются греху, превращаясь в падшие души. Тем не менее, добро будет существовать до тех пор, пока найдется хоть единая душа, которая будет в него верить. Светлым воинам удается отыскать невинные и чистые души. Ни один демон не способен заполучить их. Земные ангелы оберегаются тщательнее зеницы ока, дабы после получить крылья и обрести бессмертие. Книга Ангелы и демоны Дэна Брауна представляет собой действительно очень занимательный детектив. Это история об одном дне в Риме накануне выбора нового понтифика. На фоне этих событий разворачивается история. Таинственной символической тропой главные герои продвигаются к удивительной истине, которая предоставляет Ватикану единственную ускользающую надежду на вызволение. Но в пылающем вожделении раскрыться и продемонстрировать превосходство иллюминаты, не запнутся не перед чем! Все тайное рано или поздно становится явным. Настала пора и для человечества познать правду! Автор зовет нас в приключение. Опасность подстерегает героев на каждом шагу. Читая произведение, почему-то искренне хочется верить, что все написанное – правда. Его книги можно читать не просто как художественную литературу, но и как научно-популярную. Книга окунает читателя в мир загадок и тайн возраст, которые достигают тысячи лет. Сумеете ли Вы расшифровать все послания, разгадать все головоломки и найти похитителя? Об этом можно судить, лишь прочитав роман до конца.",
+    "images": [
+      "https://images.prom.ua/4051281626_w640_h640_angely-i-demony.jpg",
+      "https://cdn.pixabay.com/photo/2015/11/19/21/10/glasses-1052010_1280.jpg",
+      "https://cdn.pixabay.com/photo/2016/03/27/19/32/book-1283865_1280.jpg"
+    ],
     "category": {
-      "slug": "creator's_kit",
+      "slug": "fiction",
       "name": "Художественная литература"
     },
     "other": {
       "genre": {
-        "Жанр": "Фантастика"
+        "Жанр": "Детектив"
       },
       "pages": {
-        "Количество страниц": 256
+        "Количество страниц": 639
       },
       "cover": {
-        "Переплет": "Твердая"
+        "Переплет": "Твердый"
       },
       "language": {
-        "Язык": "Английский"
+        "Язык": "Русский"
       },
       "year": {
-        "Год написания": 1953
+        "Год издания": 2016
       }
     },
-    "rating": "",
-    "price": 300,
-    "qty": 7
+    "rating": "4.9",
+    "price": 399,
+    "qty": 2
   },
   {
     "id": "7351189c-80c9-4094-ba51-15b3a5311e1e",
-    "author": "Рэй Брэдбери",
-    "title": "451' по Фаренгейту",
-    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure assumenda voluptatum, obcaecati quas nobis quidem esse iusto sit voluptate asperiores maiores, tempora repellendus velit dolorem hic distinctio. Necessitatibus, dolorem! Quas distinctio deserunt voluptatem tempore, nam unde doloremque molestias fugit magni autem obcaecati earum sint explicabo! Ipsa, nostrum.",
-    "images": ["https://balka-book.com/files/2021/08_24/15_17/u_files_store_6_345.jpg"],
+    "author": "Дэн Браун",
+    "title": "Утраченный символ",
+    "description": "«Утраченный символ» — третий роман из цикла о приключениях профессора Роберта Лэнгдона, героя мировых бестселлеров «Ангелы и демоны», «Код да Винчи», «Инферно» и «Происхождение». На этот раз Роберту Лэнгдону предстоит разгадать величайшую тайну масонов, которая способна изменить мир. Веками хранимые секреты, загадочные знаки и символы — и смертельно опасное путешествие по лабиринтам прошлого... ",
+    "images": [
+      "https://images.prom.ua/4045456479_w640_h640_utrachennyj-simvol-den.jpg",
+      "https://cdn.pixabay.com/photo/2015/11/19/21/10/glasses-1052010_1280.jpg",
+      "https://cdn.pixabay.com/photo/2016/03/27/19/32/book-1283865_1280.jpg"
+    ],
     "category": {
-      "slug": "board_games",
+      "slug": "fiction",
       "name": "Художественная литература"
     },
     "other": {
       "genre": {
-        "Жанр": "Фантастика"
+        "Жанр": "Детектив"
       },
       "pages": {
-        "Количество страниц": 256
+        "Количество страниц": 576
       },
       "cover": {
-        "Переплет": "Твердая"
+        "Переплет": "Твердый"
       },
       "language": {
-        "Язык": "Английский"
+        "Язык": "Русский"
       },
       "year": {
-        "Год написания": 1953
+        "Год издания": 2019
       }
     },
-    "rating": "5.0",
-    "price": 300,
-    "qty": 0
+    "rating": "4.8",
+    "price": 390,
+    "qty": 4
   },
   {
     "id": "216a0cac-1958-4b73-a248-0a0b01399072",
-    "author": "Рэй Брэдбери",
-    "title": "451' по Фаренгейту",
-    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure assumenda voluptatum, obcaecati quas nobis quidem esse iusto sit voluptate asperiores maiores, tempora repellendus velit dolorem hic distinctio. Necessitatibus, dolorem! Quas distinctio deserunt voluptatem tempore, nam unde doloremque molestias fugit magni autem obcaecati earum sint explicabo! Ipsa, nostrum.",
-    "images": ["https://content2.rozetka.com.ua/goods/images/big/252848068.jpg"],
+    "author": "Дэн Браун",
+    "title": "Цифровая крепость",
+    "description": "«Возможно все; на невозможное просто требуется больше времени»... Его знают практически в каждом уголке земного шара. Его книги вмиг становятся бестселлерами. Экранизации его произведений собирают сотни миллионов долларов. Его имя — Дэн Браун. Для создания детективного триллера «Цифровая крепость» один из самых знаменитых американских писателей длительное время анонимно переписывался с сотрудниками Агентства национальной безопасности США. Именно секреты АНБ и стали центром сюжета книги. Сьюзан была погружена в свои мысли — жених крайне внезапно отменил совместную поездку. Но звонок начальника вернул ее к реальности. Чрезвычайное происшествие в отделении криптографии. Нужно мчаться в агентство. Суперкомпьютер впервые в истории не смог взломать поступивший на него шифр... ",
+    "images": [
+      "https://images.prom.ua/4045427615_w640_h640_tsifrovaya-krepost-den.jpg",
+      "https://cdn.pixabay.com/photo/2015/11/19/21/10/glasses-1052010_1280.jpg",
+      "https://cdn.pixabay.com/photo/2016/03/27/19/32/book-1283865_1280.jpg"
+    ],
     "category": {
-      "slug": "e-books",
+      "slug": "fiction",
       "name": "Художественная литература"
     },
     "other": {
       "genre": {
-        "Жанр": "Фантастика"
+        "Жанр": "Детектив"
       },
       "pages": {
-        "Количество страниц": 256
+        "Количество страниц": 480
       },
       "cover": {
-        "Переплет": "Твердая"
+        "Переплет": "Твердый"
       },
       "language": {
-        "Язык": "Английский"
+        "Язык": "Русский"
       },
       "year": {
-        "Год написания": 1953
+        "Год издания": 2021
       }
     },
-    "rating": "3.2",
-    "price": 142,
-    "qty": 5
+    "rating": "4.1",
+    "price": 399,
+    "qty": 0
   },
+  {
+    "id": "256a0cac-1958-4b73-a248-0a0b01399072",
+    "author": "Дэн Браун",
+    "title": "Точка обмана",
+    "description": "В Арктике обнаружен уникальный артефакт, способный раз и навсегда изменить будущее человечества. На место открытия отправляется научная экспедиция, цель которой - установить подлинность поразительной находки. Но вскоре после прибытия члены экспедиции начинают гибнуть один за другим. Кто - и почему - убивает их? Возможно, они подошли к разгадке тайны слишком близко?",
+    "images": [
+      "https://images.prom.ua/4045493691_w640_h640_tochka-obmana-den.jpg",
+      "https://cdn.pixabay.com/photo/2015/11/19/21/10/glasses-1052010_1280.jpg",
+      "https://cdn.pixabay.com/photo/2016/03/27/19/32/book-1283865_1280.jpg"
+    ],
+    "category": {
+      "slug": "fiction",
+      "name": "Художественная литература"
+    },
+    "other": {
+      "genre": {
+        "Жанр": "Детектив"
+      },
+      "pages": {
+        "Количество страниц": 512
+      },
+      "cover": {
+        "Переплет": "Твердый"
+      },
+      "language": {
+        "Язык": "Русский"
+      },
+      "year": {
+        "Год издания": 2018
+      }
+    },
+    "rating": "3.8",
+    "price": 350,
+    "qty": 0
+  },
+
   {
     "id": "ef519adf-72ba-4795-b144-de50df50329d",
     "author": "Джоан К. Роулинг",
@@ -304,16 +408,16 @@
         "Количество страниц": 400
       },
       "cover": {
-        "Переплет": "Твердая"
+        "Переплет": "Твердый"
       },
       "language": {
         "Язык": "Русский"
       },
       "year": {
-        "Год написания": 2001
+        "Год издания": 2001
       }
     },
-    "rating": "5.0",
+    "rating": "3.8",
     "price": 150,
     "qty": 8
   },
@@ -339,16 +443,16 @@
         "Количество страниц": 480
       },
       "cover": {
-        "Переплет": "Твердая"
+        "Переплет": "Твердый"
       },
       "language": {
         "Язык": "Русский"
       },
       "year": {
-        "Год написания": 2007
+        "Год издания": 2007
       }
     },
-    "rating": "5.0",
+    "rating": "4.0",
     "price": 180,
     "qty": 8
   },
@@ -374,379 +478,26 @@
         "Количество страниц": 512
       },
       "cover": {
-        "Переплет": "Твердая"
+        "Переплет": "Твердый"
       },
       "language": {
         "Язык": "Русский"
       },
       "year": {
-        "Год написания": 2007
+        "Год издания": 2007
       }
     },
-    "rating": "5.0",
+    "rating": "4.7",
     "price": 180,
     "qty": 0
   },
   {
-    "id": "8d34a4bc-4873-426c-a845-ea93291181f0",
-    "author": "Рэй Брэдбери",
-    "title": "451' по Фаренгейту",
-    "description": "Fahrenheit 451) — научно-фантастический роман-антиутопия Рэя Брэдбери, изданный в 1953 году. Роман описывает американское общество близкого будущего, в котором книги находятся под запретом; «пожарные», к числу которых принадлежит и главный герой Гай Монтэг, сжигают любые найденные книги.",
-    "images": [
-      "https://content2.rozetka.com.ua/goods/images/big/337429203.jpg",
-      "https://cdn.pixabay.com/photo/2015/11/19/21/10/glasses-1052010_1280.jpg",
-      "https://cdn.pixabay.com/photo/2016/03/27/19/32/book-1283865_1280.jpg"
-    ],
-    "category": {
-      "slug": "fiction",
-      "name": "Художественная литература"
-    },
-    "other": {
-      "genre": {
-        "Жанр": "Фантастика"
-      },
-      "pages": {
-        "Количество страниц": 256
-      },
-      "cover": {
-        "Переплет": "Твердый"
-      },
-      "language": {
-        "Язык": "Русский"
-      },
-      "year": {
-        "Год написания": 1953
-      }
-    },
-    "rating": "4.2",
-    "price": 300,
-    "qty": 10
-  },
-  {
-    "id": "8d34a4bc-4873-425c-a845-ea93291181f4",
-    "author": "Рэй Брэдбери",
-    "title": "451' по Фаренгейту",
-    "description": "Fahrenheit 451) — научно-фантастический роман-антиутопия Рэя Брэдбери, изданный в 1953 году. Роман описывает американское общество близкого будущего, в котором книги находятся под запретом; «пожарные», к числу которых принадлежит и главный герой Гай Монтэг, сжигают любые найденные книги.",
-    "images": [
-      "https://content2.rozetka.com.ua/goods/images/big/337429203.jpg",
-      "https://cdn.pixabay.com/photo/2015/11/19/21/10/glasses-1052010_1280.jpg",
-      "https://cdn.pixabay.com/photo/2016/03/27/19/32/book-1283865_1280.jpg"
-    ],
-    "category": {
-      "slug": "fiction",
-      "name": "Художественная литература"
-    },
-    "other": {
-      "genre": {
-        "Жанр": "Фантастика"
-      },
-      "pages": {
-        "Количество страниц": 256
-      },
-      "cover": {
-        "Переплет": "Твердый"
-      },
-      "language": {
-        "Язык": "Русский"
-      },
-      "year": {
-        "Год написания": 1953
-      }
-    },
-    "rating": "4.2",
-    "price": 300,
-    "qty": 10
-  },
-  {
-    "id": "8d34a4bc-4873-425c-a845-ea93291181f1",
-    "author": "Рэй Брэдбери",
-    "title": "451' по Фаренгейту",
-    "description": "Fahrenheit 451) — научно-фантастический роман-антиутопия Рэя Брэдбери, изданный в 1953 году. Роман описывает американское общество близкого будущего, в котором книги находятся под запретом; «пожарные», к числу которых принадлежит и главный герой Гай Монтэг, сжигают любые найденные книги.",
-    "images": [
-      "https://content2.rozetka.com.ua/goods/images/big/337429203.jpg",
-      "https://cdn.pixabay.com/photo/2015/11/19/21/10/glasses-1052010_1280.jpg",
-      "https://cdn.pixabay.com/photo/2016/03/27/19/32/book-1283865_1280.jpg"
-    ],
-    "category": {
-      "slug": "fiction",
-      "name": "Художественная литература"
-    },
-    "other": {
-      "genre": {
-        "Жанр": "Фантастика"
-      },
-      "pages": {
-        "Количество страниц": 256
-      },
-      "cover": {
-        "Переплет": "Твердый"
-      },
-      "language": {
-        "Язык": "Русский"
-      },
-      "year": {
-        "Год написания": 1953
-      }
-    },
-    "rating": "4.2",
-    "price": 300,
-    "qty": 10
-  },
-  {
-    "id": "9c023aa0-618c-463e-be56-cc8b4fbf88f2",
-    "author": "Рэй Брэдбери",
-    "title": "451' по Фаренгейту",
-    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure assumenda voluptatum, obcaecati quas nobis quidem esse iusto sit voluptate asperiores maiores, tempora repellendus velit dolorem hic distinctio. Necessitatibus, dolorem! Quas distinctio deserunt voluptatem tempore, nam unde doloremque molestias fugit magni autem obcaecati earum sint explicabo! Ipsa, nostrum.",
-    "images": ["https://balka-book.com/files/2021/08_24/15_17/u_files_store_6_345.jpg"],
-    "category": {
-      "slug": "fiction",
-      "name": "Художественная литература"
-    },
-    "other": {
-      "genre": {
-        "Жанр": "Фантастика"
-      },
-      "pages": {
-        "Количество страниц": 272
-      },
-      "cover": {
-        "Переплет": "Мягкая"
-      },
-      "language": {
-        "Язык": "Украинский"
-      },
-      "year": {
-        "Год написания": 1953
-      }
-    },
-    "rating": "3.6",
-    "price": 300,
-    "qty": 4
-  },
-  {
-    "id": "41610dd0-453e-41cc-b367-923536468583",
-    "author": "Рэй Брэдбери",
-    "title": "451' по Фаренгейту",
-    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure assumenda voluptatum, obcaecati quas nobis quidem esse iusto sit voluptate asperiores maiores, tempora repellendus velit dolorem hic distinctio. Necessitatibus, dolorem! Quas distinctio deserunt voluptatem tempore, nam unde doloremque molestias fugit magni autem obcaecati earum sint explicabo! Ipsa, nostrum.",
-    "images": ["https://content2.rozetka.com.ua/goods/images/big/252848068.jpg"],
-    "category": {
-      "slug": "fiction",
-      "name": "Художественная литература"
-    },
-    "other": {
-      "genre": {
-        "Жанр": "Фантастика"
-      },
-      "pages": {
-        "Количество страниц": 256
-      },
-      "cover": {
-        "Переплет": "Мягкая"
-      },
-      "language": {
-        "Язык": "Английский"
-      },
-      "year": {
-        "Год написания": 1953
-      }
-    },
-    "rating": "4.0",
-    "price": 142,
-    "qty": 0
-  },
-  {
-    "id": "439035c2-3c02-4e21-a03e-56f228adb960",
-    "author": "Рэй Брэдбери",
-    "title": "451' по Фаренгейту",
-    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure assumenda voluptatum, obcaecati quas nobis quidem esse iusto sit voluptate asperiores maiores, tempora repellendus velit dolorem hic distinctio. Necessitatibus, dolorem! Quas distinctio deserunt voluptatem tempore, nam unde doloremque molestias fugit magni autem obcaecati earum sint explicabo! Ipsa, nostrum.",
-    "images": ["https://content2.rozetka.com.ua/goods/images/big/337429203.jpg"],
-    "category": {
-      "slug": "fiction",
-      "name": "Художественная литература"
-    },
-    "other": {
-      "genre": {
-        "Жанр": "Фантастика"
-      },
-      "pages": {
-        "Количество страниц": 256
-      },
-      "cover": {
-        "Переплет": "Твердая"
-      },
-      "language": {
-        "Язык": "Русский"
-      },
-      "year": {
-        "Год написания": 1953
-      }
-    },
-    "rating": "2.4",
-    "price": 300,
-    "qty": 4
-  },
-  {
-    "id": "c6b40d2f-103a-4db4-ada0-503a6b910aeb",
-    "author": "Рэй Брэдбери",
-    "title": "451' по Фаренгейту",
-    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure assumenda voluptatum, obcaecati quas nobis quidem esse iusto sit voluptate asperiores maiores, tempora repellendus velit dolorem hic distinctio. Necessitatibus, dolorem! Quas distinctio deserunt voluptatem tempore, nam unde doloremque molestias fugit magni autem obcaecati earum sint explicabo! Ipsa, nostrum.",
-    "images": ["https://balka-book.com/files/2021/08_24/15_17/u_files_store_6_345.jpg"],
-    "category": {
-      "slug": "educational_literature",
-      "name": "Художественная литература"
-    },
-    "other": {
-      "genre": {
-        "Жанр": "Фантастика"
-      },
-      "pages": {
-        "Количество страниц": 272
-      },
-      "cover": {
-        "Переплет": "Твердая"
-      },
-      "language": {
-        "Язык": "Украинский"
-      },
-      "year": {
-        "Год написания": 1953
-      }
-    },
-    "rating": "1.6",
-    "price": 300,
-    "qty": 1
-  },
-  {
-    "id": "cc53002e-d26b-59ce-98d0-7eae2ff9368b",
-    "author": "Рэй Брэдбери",
-    "title": "451' по Фаренгейту",
-    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure assumenda voluptatum, obcaecati quas nobis quidem esse iusto sit voluptate asperiores maiores, tempora repellendus velit dolorem hic distinctio. Necessitatibus, dolorem! Quas distinctio deserunt voluptatem tempore, nam unde doloremque molestias fugit magni autem obcaecati earum sint explicabo! Ipsa, nostrum.",
-    "images": ["https://content2.rozetka.com.ua/goods/images/big/252848068.jpg"],
-    "category": {
-      "slug": "gift_editions",
-      "name": "Художественная литература"
-    },
-    "other": {
-      "genre": {
-        "Жанр": "Фантастика"
-      },
-      "pages": {
-        "Количество страниц": 256
-      },
-      "cover": {
-        "Переплет": "Твердая"
-      },
-      "language": {
-        "Язык": "Английский"
-      },
-      "year": {
-        "Год написания": 1953
-      }
-    },
-    "rating": "0.5",
-    "price": 142,
-    "qty": 2
-  },
-  {
-    "id": "0176ce3e-61d0-4940-9505-55b8a359082a",
-    "author": "Рэй Брэдбери",
-    "title": "451' по Фаренгейту",
-    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure assumenda voluptatum, obcaecati quas nobis quidem esse iusto sit voluptate asperiores maiores, tempora repellendus velit dolorem hic distinctio. Necessitatibus, dolorem! Quas distinctio deserunt voluptatem tempore, nam unde doloremque molestias fugit magni autem obcaecati earum sint explicabo! Ipsa, nostrum.",
-    "images": ["https://content2.rozetka.com.ua/goods/images/big/337429203.jpg"],
-    "category": {
-      "slug": "creator's_kit",
-      "name": "Художественная литература"
-    },
-    "other": {
-      "genre": {
-        "Жанр": "Фантастика"
-      },
-      "pages": {
-        "Количество страниц": 256
-      },
-      "cover": {
-        "Переплет": "Твердая"
-      },
-      "language": {
-        "Язык": "Английский"
-      },
-      "year": {
-        "Год написания": 1953
-      }
-    },
-    "rating": "",
-    "price": 300,
-    "qty": 7
-  },
-  {
-    "id": "7351189c-80c9-4094-ba51-15b3a5311e2e",
-    "author": "Рэй Брэдбери",
-    "title": "451' по Фаренгейту",
-    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure assumenda voluptatum, obcaecati quas nobis quidem esse iusto sit voluptate asperiores maiores, tempora repellendus velit dolorem hic distinctio. Necessitatibus, dolorem! Quas distinctio deserunt voluptatem tempore, nam unde doloremque molestias fugit magni autem obcaecati earum sint explicabo! Ipsa, nostrum.",
-    "images": ["https://balka-book.com/files/2021/08_24/15_17/u_files_store_6_345.jpg"],
-    "category": {
-      "slug": "board_games",
-      "name": "Художественная литература"
-    },
-    "other": {
-      "genre": {
-        "Жанр": "Фантастика"
-      },
-      "pages": {
-        "Количество страниц": 256
-      },
-      "cover": {
-        "Переплет": "Твердая"
-      },
-      "language": {
-        "Язык": "Английский"
-      },
-      "year": {
-        "Год написания": 1953
-      }
-    },
-    "rating": "5.0",
-    "price": 300,
-    "qty": 0
-  },
-  {
-    "id": "216a0cbc-1958-4b73-a248-0a0b01399072",
-    "author": "Рэй Брэдбери",
-    "title": "451' по Фаренгейту",
-    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure assumenda voluptatum, obcaecati quas nobis quidem esse iusto sit voluptate asperiores maiores, tempora repellendus velit dolorem hic distinctio. Necessitatibus, dolorem! Quas distinctio deserunt voluptatem tempore, nam unde doloremque molestias fugit magni autem obcaecati earum sint explicabo! Ipsa, nostrum.",
-    "images": ["https://content2.rozetka.com.ua/goods/images/big/252848068.jpg"],
-    "category": {
-      "slug": "e-books",
-      "name": "Художественная литература"
-    },
-    "other": {
-      "genre": {
-        "Жанр": "Фантастика"
-      },
-      "pages": {
-        "Количество страниц": 256
-      },
-      "cover": {
-        "Переплет": "Твердая"
-      },
-      "language": {
-        "Язык": "Английский"
-      },
-      "year": {
-        "Год написания": 1953
-      }
-    },
-    "rating": "3.2",
-    "price": 142,
-    "qty": 5
-  },
-  {
     "id": "ef519bdf-72ba-4795-b144-de50df50329d",
     "author": "Джоан К. Роулинг",
-    "title": "Гарри Поттер и филосовский камень",
-    "description": "Одиннадцатилетний мальчик-сирота Гарри Поттер живет в семье своей тетки и даже не подозревает, что он - настоящий волшебник. Но однажды прилетает сова с письмом для него, и жизнь Гарри Поттера изменяется навсегда. Он узнает, что зачислен в Школу Чародейства и Волшебства, выясняет правду о загадочной смерти своих родителей, а в результате ему удается раскрыть секрет философского камня.",
+    "title": "Гарри Поттер и кубок",
+    "description": "Четвертая часть самой популярной серии книг о юном волшебнике с молниеобразным шрамом на лбу Гарри Поттере может пополнить вашу коллекцию на книжной полке. В этот раз ученику Хогвартса придется не по своему желанию принять участие в Турнире Трех Волшебников, проходящему в школе. Но ведь Гарри не достиг необходимого возраста, и не подавал свое имя на участие! Кто-то явно хочет подвергнуть его опасности. С трудом мальчик выходит сухим из воды во время испытаний турнира, а Тот-кого-нельзя-называть не теряет время и восстанавливает силы для встречи с Поттером на финальном состязании. Гарри, как обычно, помогают справляться с трудностями верные друзья, но ему придется лицом к лицу столкнуться со всеми опасностями в одиночку...",
     "images": [
-      "https://knigovo.org.ua/files/2021/12_30/13_21/u_files_store_1_254.jpg",
+      "https://images.prom.ua/4494833912_w640_h640_kniga-garri-potter.jpg",
       "https://cdn.pixabay.com/photo/2015/11/19/21/10/glasses-1052010_1280.jpg",
       "https://cdn.pixabay.com/photo/2016/03/27/19/32/book-1283865_1280.jpg"
     ],
@@ -759,29 +510,29 @@
         "Жанр": "Приключение"
       },
       "pages": {
-        "Количество страниц": 400
+        "Количество страниц": 672
       },
       "cover": {
-        "Переплет": "Твердая"
+        "Переплет": "Твердый"
       },
       "language": {
         "Язык": "Русский"
       },
       "year": {
-        "Год написания": 2001
+        "Год написания": 2007
       }
     },
-    "rating": "5.0",
-    "price": 150,
+    "rating": "4.5",
+    "price": 180,
     "qty": 8
   },
   {
     "id": "424eba69-eed6-4a4d-9d68-f9a089c141f4",
     "author": "Джоан К. Роулинг",
-    "title": "Гарри Поттер и тайная комната",
-    "description": "Это вторая книга о приключениях Гарри Поттера. Он снова вступает в отчаянную схватку со злом. На этот раз враг его так силен, что надежды на победу почти нет. В Школе чародейства и волшебства 'Хогвартс' происходят тревожные события. Кто-то нападает на учеников школы, и преподаватели подозревают, что это таинственное чудовище, которое скрывается в легендарной Тайной комнате. Гарри Поттер и его друзья разгадывают загадку Тайной комнаты, и теперь Гарри снова предстоит сразиться с лордом Волан-де-Мортом. Сумеет ли он победить на этот раз?",
+    "title": "Гарри Поттер и Орден Феникса",
+    "description": "Книга, покорившая мир, эталон литературы для читателей всех возрастов, синоним успеха. Книга, сделавшая Дж.К. Роулинг самым читаемым писателем современности. Книга, ставшая культовой уже для нескольких поколений. «Гарри Поттер и орден Феникса» – история продолжается.",
     "images": [
-      "https://knigovo.org.ua/files/2021/12_30/13_38/u_files_store_1_269.jpg",
+      "https://images.prom.ua/4497182121_w640_h640_kniga-garri-potter.jpg",
       "https://cdn.pixabay.com/photo/2015/11/19/21/10/glasses-1052010_1280.jpg",
       "https://cdn.pixabay.com/photo/2016/03/27/19/32/book-1283865_1280.jpg"
     ],
@@ -794,10 +545,10 @@
         "Жанр": "Приключение"
       },
       "pages": {
-        "Количество страниц": 480
+        "Количество страниц": 670
       },
       "cover": {
-        "Переплет": "Твердая"
+        "Переплет": "Твердый"
       },
       "language": {
         "Язык": "Русский"
@@ -806,17 +557,17 @@
         "Год написания": 2007
       }
     },
-    "rating": "5.0",
+    "rating": "4.3",
     "price": 180,
     "qty": 8
   },
   {
     "id": "er554cca-e222-454e-a8da-c354e1fd24b1",
     "author": "Джоан К. Роулинг",
-    "title": "Гарри Поттер и узник Азкабана",
-    "description": "В течение двенадцати долгих лет печально известный узник по имени Сириус Блэк содержался в мрачной тюрьме Азкабан. Осужденный за убийство одним проклятием тринадцати человек, Блэк был признан опасным как для волшебников, так и для маглов и объявлен одним из ближайших соратников Волан-де-Морта. И вот он на свободе и на земле существует только одно место, куда он мог направиться. Стражники Азкабана не раз слышали, как во сне Блэк бормотал: Он в Хогвартсе... Он в Хогвартсе. Так что теперь Гарри Поттер в опасности, даже в стенах своей волшебной школы, даже в окружении своих друзей.",
+    "title": "Гарри Поттер и принц полукровка",
+    "description": "Гарри вновь пришлось провести летние каникулы у Дурслей. Ему было о чем подумать: смерть его любимого крестного Сириуса Блэка, жестокая схватка между профессором Дамблдором и Лордом Волан-де-Мортом, свидетелем которой он стал. И вот, сидя в своей комнате в доме Дурслей, Гарри Поттер с нетерпением ожидает визита директора школы Хогвартс. Почему профессору понадобилось навестить его именно сейчас? Какое срочное дело не терпит отлагательства до возвращения Гарри в Хогвартс через несколько недель? И еще неизвестно, как отреагируют Дурсли на внезапное появление директора Хогвартса в их доме...",
     "images": [
-      "https://knigovo.org.ua/files/2021/12_30/13_32/u_files_store_1_263.jpg",
+      "https://images.prom.ua/4079581898_w640_h640_kniga-garri-potter.jpg",
       "https://cdn.pixabay.com/photo/2015/11/19/21/10/glasses-1052010_1280.jpg",
       "https://cdn.pixabay.com/photo/2016/03/27/19/32/book-1283865_1280.jpg"
     ],
@@ -829,10 +580,10 @@
         "Жанр": "Приключение"
       },
       "pages": {
-        "Количество страниц": 512
+        "Количество страниц": 632
       },
       "cover": {
-        "Переплет": "Твердая"
+        "Переплет": "Твердый"
       },
       "language": {
         "Язык": "Русский"
@@ -841,17 +592,53 @@
         "Год написания": 2007
       }
     },
+    "rating": "4.5",
+    "price": 190,
+    "qty": 4
+  },
+  {
+    "id": "fef54cca-e222-454e-a8da-c354e1fd24b1",
+    "author": "Джоан К. Роулинг",
+    "title": "Гарри Поттер и дары смерти",
+    "description": "Волшебный мир в опасности. Темный Лорд восстал и захватил власть в Министерстве Магии. Не остается сомнений в том, что страшные изменения скоро наступят в привычном мире магов. Профессор Дамблдор оставил юным гриффиндорцам загадочное наследство: книгу сказок Барда Бидла для Гермионы, делюминатор для Рона и золотой снитч для Гарри. Что хотел этим сказать бывший директор Хогвартса? И как это может помочь друзьям найти все крестражи и победить Волан-де-Морта? Грядет битва в Школе Чародейства и Волшебства. Армия Дамблдора выступит против Пожирателей Смерти. Герои книг повзрослели вместе с их читателями — теперь это не те ребята, которые однажды встретились в Хогвартс-Экспресс. Теперь им предстоит самим стать на защиту любимой школы, отомстить за смерти и близких и бороться за победу над злом.",
+    "images": [
+      "https://images.prom.ua/3562175458_w640_h640_kniga-garri-potter.jpg",
+      "https://cdn.pixabay.com/photo/2015/11/19/21/10/glasses-1052010_1280.jpg",
+      "https://cdn.pixabay.com/photo/2016/03/27/19/32/book-1283865_1280.jpg"
+    ],
+    "category": {
+      "slug": "children's_literature",
+      "name": "Детская литература"
+    },
+    "other": {
+      "genre": {
+        "Жанр": "Приключение"
+      },
+      "pages": {
+        "Количество страниц": 652
+      },
+      "cover": {
+        "Переплет": "Твердый"
+      },
+      "language": {
+        "Язык": "Русский"
+      },
+      "year": {
+        "Год написания": 2012
+      }
+    },
     "rating": "5.0",
-    "price": 180,
-    "qty": 0
+    "price": 170,
+    "qty": 4
   },
+
   {
-    "id": "8c34a4bc-4873-425c-a845-ea93291181f0",
-    "author": "Рэй Брэдбери",
-    "title": "451' по Фаренгейту",
-    "description": "Fahrenheit 451) — научно-фантастический роман-антиутопия Рэя Брэдбери, изданный в 1953 году. Роман описывает американское общество близкого будущего, в котором книги находятся под запретом; «пожарные», к числу которых принадлежит и главный герой Гай Монтэг, сжигают любые найденные книги.",
+    "id": "ef784cca-e222-454e-a8da-c354e1fd24b1",
+    "author": "Joanne Rowling",
+    "title": "Harry Potter and the Philosopher's Stone",
+    "description": "После нескольких попыток ужасного Темного Лорда убить Гарри Поттера, последнему к счастью удалось выжить и достичь тринадцатилетнего возраста. Но все мечты и надежды Гарри на спокойный учебный год и тренировки в команде по квиддичу рушатся, когда он узнает о побеге опасного маньяка-убийцы из тюрьмы Азкабан, на поиски которого отправились высасывающие душу стражи тюрьмы, дементоры. Кажется, что Хогвартс – единственное место, где Гарри может быть в безопасности. Но как объяснить, что ему кажется, будто за ним наблюдают в темноте, и стоит ли ему прислушаться к ужасающим предсказаниям профессора Трелони?",
     "images": [
-      "https://content2.rozetka.com.ua/goods/images/big/337429203.jpg",
+      "https://images.prom.ua/3791494736_w640_h640_harry-potter-and.jpg",
       "https://cdn.pixabay.com/photo/2015/11/19/21/10/glasses-1052010_1280.jpg",
       "https://cdn.pixabay.com/photo/2016/03/27/19/32/book-1283865_1280.jpg"
     ],
@@ -861,32 +648,32 @@
     },
     "other": {
       "genre": {
-        "Жанр": "Фантастика"
+        "Жанр": "Фентези"
       },
       "pages": {
-        "Количество страниц": 256
+        "Количество страниц": 240
       },
       "cover": {
-        "Переплет": "Твердый"
+        "Переплет": "Мягкий"
       },
       "language": {
-        "Язык": "Русский"
+        "Язык": "Английский"
       },
       "year": {
-        "Год написания": 1953
+        "Год издания": 2014
       }
     },
-    "rating": "4.2",
-    "price": 300,
-    "qty": 10
+    "rating": "4.7",
+    "price": 220,
+    "qty": 4
   },
   {
-    "id": "8d34a4bc-4883-425c-a845-ea93291181f0",
-    "author": "Рэй Брэдбери",
-    "title": "451' по Фаренгейту",
-    "description": "Fahrenheit 451) — научно-фантастический роман-антиутопия Рэя Брэдбери, изданный в 1953 году. Роман описывает американское общество близкого будущего, в котором книги находятся под запретом; «пожарные», к числу которых принадлежит и главный герой Гай Монтэг, сжигают любые найденные книги.",
+    "id": "kl784cca-e222-454e-a8da-c354e1fd24b1",
+    "author": "Joanne Rowling",
+    "title": "Harry Potter and the Chamder Secrets",
+    "description": "Harry Potter can’t wait for his holidays with the dire Dursleys to end. But a small, self-punishing house-elf warns Harry of mortal danger awaiting him at Hogwarts. Returning to the castle nevertheless, Harry hears a rumour about a Chamber of Secrets, holding unknown horrors for wizards of Muggle parentage. Now someone is casting spells that turn people to stone, and a terrible warning is found painted on the wall. The chief suspect – always in the wrong place – is Harry. But something much more terrifying has yet to be unleashed. These new editions of the classic and internationally bestselling, multi-award-winning series feature instantly pick-up-able new jackets by Jonny Duddle, with huge child appeal, to bring Harry Potter to the next generation of readers. It’s time to PASS THE MAGIC ON ...",
     "images": [
-      "https://content2.rozetka.com.ua/goods/images/big/337429203.jpg",
+      "https://images.prom.ua/3791499616_w640_h640_harry-potter-and.jpg",
       "https://cdn.pixabay.com/photo/2015/11/19/21/10/glasses-1052010_1280.jpg",
       "https://cdn.pixabay.com/photo/2016/03/27/19/32/book-1283865_1280.jpg"
     ],
@@ -896,23 +683,269 @@
     },
     "other": {
       "genre": {
-        "Жанр": "Фантастика"
+        "Жанр": "Фентези"
       },
       "pages": {
-        "Количество страниц": 256
+        "Количество страниц": 264
       },
       "cover": {
-        "Переплет": "Твердый"
+        "Переплет": "Мягкий"
       },
       "language": {
-        "Язык": "Русский"
+        "Язык": "Английский"
+      },
+      "year": {
+        "Год издания": 2014
+      }
+    },
+    "rating": "4.8",
+    "price": 220,
+    "qty": 4
+  },
+  {
+    "id": "ius84cca-e222-454e-a8da-c354e1fd24b1",
+    "author": "Joanne Rowling",
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "description": "When the Knight Bus crashes through the darkness and screeches to a halt in front of him, it's the start of another far from ordinary year at Hogwarts for Harry Potter. Sirius Black, escaped mass-murderer and follower of Lord Voldemort, is on the run – and they say he is coming after Harry. In his first ever Divination class, Professor Trelawney sees an omen of death in Harry's tea leaves … But perhaps most terrifying of all are the Dementors patrolling the school grounds, with their soul-sucking kiss. These new editions of the classic and internationally bestselling, multi-award-winning series feature instantly pick-up-able new jackets by Jonny Duddle, with huge child appeal, to bring Harry Potter to the next generation of readers. It's time to PASS THE MAGIC ON …",
+    "images": [
+      "https://images.prom.ua/3791506394_w640_h640_harry-potter-and.jpg",
+      "https://cdn.pixabay.com/photo/2015/11/19/21/10/glasses-1052010_1280.jpg",
+      "https://cdn.pixabay.com/photo/2016/03/27/19/32/book-1283865_1280.jpg"
+    ],
+    "category": {
+      "slug": "fiction",
+      "name": "Художественная литература"
+    },
+    "other": {
+      "genre": {
+        "Жанр": "Фентези"
+      },
+      "pages": {
+        "Количество страниц": 328
+      },
+      "cover": {
+        "Переплет": "Мягкий"
+      },
+      "language": {
+        "Язык": "Английский"
+      },
+      "year": {
+        "Год издания": 2014
+      }
+    },
+    "rating": "4.7",
+    "price": 250,
+    "qty": 4
+  },
+  {
+    "id": "css84cca-e222-454e-a8da-c354e1fd24b1",
+    "author": "Joanne Rowling",
+    "title": "Harry Potter and the Goblet of Fire",
+    "description": "The Triwizard Tournament is to be held at Hogwarts. Only wizards who are over seventeen are allowed to enter - but that doesn't stop Harry dreaming that he will win the competition. Then at Hallowe'en, when the Goblet of Fire makes its selection, Harry is amazed to find his name is one of those that the magical cup picks out. He will face death-defying tasks, dragons and Dark wizards, but with the help of his best friends, Ron and Hermione, he might just make it through - alive! These new editions of the classic and internationally bestselling, multi-award-winning series feature instantly pick-up-able new jackets by Jonny Duddle, with huge child appeal, to bring Harry Potter to the next generation of readers. It's time to PASS THE MAGIC ON ...",
+    "images": [
+      "https://images.prom.ua/3791521847_w640_h640_harry-potter-and.jpg",
+      "https://cdn.pixabay.com/photo/2015/11/19/21/10/glasses-1052010_1280.jpg",
+      "https://cdn.pixabay.com/photo/2016/03/27/19/32/book-1283865_1280.jpg"
+    ],
+    "category": {
+      "slug": "fiction",
+      "name": "Художественная литература"
+    },
+    "other": {
+      "genre": {
+        "Жанр": "Фентези"
+      },
+      "pages": {
+        "Количество страниц": 552
+      },
+      "cover": {
+        "Переплет": "Мягкий"
+      },
+      "language": {
+        "Язык": "Английский"
+      },
+      "year": {
+        "Год издания": 2014
+      }
+    },
+    "rating": "4.5",
+    "price": 290,
+    "qty": 4
+  },
+  {
+    "id": "ert84cca-e222-454e-a8da-c354e1fd24b1",
+    "author": "Joanne Rowling",
+    "title": "Harry Potter and the Order of the Phoenix",
+    "description": "Dark times have come to Hogwarts. After the Dementors' attack on his cousin Dudley, Harry Potter knows that Voldemort will stop at nothing to find him. There are many who deny the Dark Lord's return, but Harry is not alone: a secret order gathers at Grimmauld Place to fight against the Dark forces. Harry must allow Professor Snape to teach him how to protect himself from Voldemort's savage assaults on his mind. But they are growing stronger by the day and Harry is running out of time. These new editions of the classic and internationally bestselling, multi-award-winning series feature instantly pick-up-able new jackets by Jonny Duddle, with huge child appeal, to bring Harry Potter to the next generation of readers. It's time to PASS THE MAGIC ON …",
+    "images": [
+      "https://images.prom.ua/3791536077_w640_h640_harry-potter-and.jpg",
+      "https://cdn.pixabay.com/photo/2015/11/19/21/10/glasses-1052010_1280.jpg",
+      "https://cdn.pixabay.com/photo/2016/03/27/19/32/book-1283865_1280.jpg"
+    ],
+    "category": {
+      "slug": "fiction",
+      "name": "Художественная литература"
+    },
+    "other": {
+      "genre": {
+        "Жанр": "Фентези"
+      },
+      "pages": {
+        "Количество страниц": 696
+      },
+      "cover": {
+        "Переплет": "Мягкий"
+      },
+      "language": {
+        "Язык": "Английский"
+      },
+      "year": {
+        "Год издания": 2014
+      }
+    },
+    "rating": "4.3",
+    "price": 310,
+    "qty": 4
+  },
+  {
+    "id": "gfg84cca-e222-454e-a8da-c354e1fd24b1",
+    "author": "Joanne Rowling",
+    "title": "Harry Potter and the Half-Blood Prince",
+    "description": "When Dumbledore arrives at Privet Drive one summer night to collect Harry Potter, his wand hand is blackened and shrivelled, but he does not reveal why. Secrets and suspicion are spreading through the wizarding world, and Hogwarts itself is not safe. Harry is convinced that Malfoy bears the Dark Mark: there is a Death Eater amongst them. Harry will need powerful magic and true friends as he explores Voldemort's darkest secrets, and Dumbledore prepares him to face his destiny.",
+    "images": [
+      "https://images.prom.ua/3791517990_w640_h640_harry-potter-and.jpg",
+      "https://cdn.pixabay.com/photo/2015/11/19/21/10/glasses-1052010_1280.jpg",
+      "https://cdn.pixabay.com/photo/2016/03/27/19/32/book-1283865_1280.jpg"
+    ],
+    "category": {
+      "slug": "fiction",
+      "name": "Художественная литература"
+    },
+    "other": {
+      "genre": {
+        "Жанр": "Фентези"
+      },
+      "pages": {
+        "Количество страниц": 488
+      },
+      "cover": {
+        "Переплет": "Мягкий"
+      },
+      "language": {
+        "Язык": "Английский"
+      },
+      "year": {
+        "Год издания": 2014
+      }
+    },
+    "rating": "4.5",
+    "price": 220,
+    "qty": 4
+  },
+  {
+    "id": "kll84cca-e222-454e-a8da-c354e1fd24b1",
+    "author": "Joanne Rowling",
+    "title": "Harry Potter and the Deathly Hallows",
+    "description": "В последний раз Гарри покидает дом Дурслей на Тисовой улице. Но будущее полное опасностей уже поджидает Гарри и его друзей, которые итак много потеряли. Только разрушив последний из крестражей Волан-де-морта, Гарри сумеет высвободиться и победить злые силы Темного Лорда. В этом драматическом завершении серий книг о Гарри Поттере, Гарри вынужден без помощи друзей отправиться в рискованное путешествие, чтобы с отвагой и честью встретиться лицом к лицу со своей судьбой – в одиночку вступить в смертельную схватку со злом.",
+    "images": [
+      "https://images.prom.ua/3791513870_w640_h640_harry-potter-and.jpg",
+      "https://cdn.pixabay.com/photo/2015/11/19/21/10/glasses-1052010_1280.jpg",
+      "https://cdn.pixabay.com/photo/2016/03/27/19/32/book-1283865_1280.jpg"
+    ],
+    "category": {
+      "slug": "fiction",
+      "name": "Художественная литература"
+    },
+    "other": {
+      "genre": {
+        "Жанр": "Фентези"
+      },
+      "pages": {
+        "Количество страниц": 640
+      },
+      "cover": {
+        "Переплет": "Мягкий"
+      },
+      "language": {
+        "Язык": "Английский"
+      },
+      "year": {
+        "Год издания": 2014
+      }
+    },
+    "rating": "4.8",
+    "price": 280,
+    "qty": 4
+  },
+
+  {
+    "id": "cc53002e-d26b-59ce-98d0-7eae2ff9368b",
+    "author": "Joanne Rowling",
+    "title": "Harry Potter. Комплект из 7 книг на английском языке.(подарочный)",
+    "description": "Now for the first time ever, J.K.Rowling's seven bestselling Harry Potter books are available in a stunning paperback boxed set! The Harry Potter series has been hailed as 'one for the ages' by Stephen King and 'a spellbinding saga' by USA today. And most recently, The New York Times called Harry Potter and the Deathly Hallows the 'fastest selling book in history'. This is the ultimate Harry Potter collection for Harry Potter fans of all ages! В комплект из 7 книг на английском языке входят: 1ч. Harry Potter and the Philosopher's Stone (Гарри Поттер и Философский камень) - 340 стр., 2ч. Harry Potter and the Chamber of Secrets (Гарри Поттер и Тайная комната) - 372 стр., 3ч. Harry Potter and the Prisoner of Azkaban (Гарри Поттер и узник Азкабана) -468 стр., 4ч. Harry Potter and the Goblet of Fire (Гарри Поттер и Кубок огня) - 626 стр., 5ч. Harry Potter and the Order of the Phoenix (Гарри Поттер и Орден Феникса) - 802 стр.,  6ч. Harry Potter and the Half-Blood Prince (Гарри Поттер и Принц Полукровка) - 546 стр.,  7.ч Harry Potter and the Deathly Hallows (Гарри Поттер и Дары Смерти) - 624 стр.",
+    "images": [
+      "https://images.prom.ua/4184360498_w640_h640_harry-potter-komplekt.jpg",
+      "https://cdn.pixabay.com/photo/2015/11/19/21/10/glasses-1052010_1280.jpg",
+      "https://cdn.pixabay.com/photo/2016/03/27/19/32/book-1283865_1280.jpg"
+    ],
+    "category": {
+      "slug": "gift_editions",
+      "name": "Художественная литература"
+    },
+    "other": {
+      "genre": {
+        "Жанр": "Фентези"
+      },
+      "pages": {
+        "Количество страниц": 3778
+      },
+      "cover": {
+        "Переплет": "Мягкий"
+      },
+      "language": {
+        "Язык": "Английский"
       },
       "year": {
         "Год написания": 1953
       }
     },
     "rating": "4.2",
-    "price": 300,
-    "qty": 10
+    "price": 1500,
+    "qty": 2
+  },
+  {
+    "id": "kls3002e-d26b-59ce-98d0-7eae2ff9368b",
+    "author": "Джоан К. Роулинг",
+    "title": "Гарри Поттер. Все 7 книг. Подарочное издание",
+    "description": "Now for the first time ever, J.K.Rowling's seven bestselling Harry Potter books are available in a stunning paperback boxed set! The Harry Potter series has been hailed as 'one for the ages' by Stephen King and 'a spellbinding saga' by USA today. And most recently, The New York Times called Harry Potter and the Deathly Hallows the 'fastest selling book in history'. This is the ultimate Harry Potter collection for Harry Potter fans of all ages! В комплект из 7 книг на английском языке входят: 1ч. Harry Potter and the Philosopher's Stone (Гарри Поттер и Философский камень) - 340 стр., 2ч. Harry Potter and the Chamber of Secrets (Гарри Поттер и Тайная комната) - 372 стр., 3ч. Harry Potter and the Prisoner of Azkaban (Гарри Поттер и узник Азкабана) -468 стр., 4ч. Harry Potter and the Goblet of Fire (Гарри Поттер и Кубок огня) - 626 стр., 5ч. Harry Potter and the Order of the Phoenix (Гарри Поттер и Орден Феникса) - 802 стр.,  6ч. Harry Potter and the Half-Blood Prince (Гарри Поттер и Принц Полукровка) - 546 стр.,  7.ч Harry Potter and the Deathly Hallows (Гарри Поттер и Дары Смерти) - 624 стр.",
+    "images": [
+      "https://images.prom.ua/4917773829_w640_h640_garri-potter-vse.jpg",
+      "https://cdn.pixabay.com/photo/2015/11/19/21/10/glasses-1052010_1280.jpg",
+      "https://cdn.pixabay.com/photo/2016/03/27/19/32/book-1283865_1280.jpg"
+    ],
+    "category": {
+      "slug": "gift_editions",
+      "name": "Художественная литература"
+    },
+    "other": {
+      "genre": {
+        "Жанр": "Фентези"
+      },
+      "pages": {
+        "Количество страниц": 4000
+      },
+      "cover": {
+        "Переплет": "Мягкий"
+      },
+      "language": {
+        "Язык": "Английский"
+      },
+      "year": {
+        "Год написания": 2018
+      }
+    },
+    "rating": "4.5",
+    "price": 999,
+    "qty": 2
   }
 ]

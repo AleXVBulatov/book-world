@@ -22,7 +22,7 @@ app.get("/products", (req, res) => {
   const searchCategorySlug = req.query.categorySlug;
   const searchPriceMin = Number(req.query.price_min);
   const searchPriceMax = Number(req.query.price_max);
-  const searchInStock = req.query.inStock;
+  const searchInStock = String(req.query.inStock);
   const offset = Number(req.query.offset);
   const limit = Number(req.query.limit);
 
@@ -65,7 +65,7 @@ app.get("/products", (req, res) => {
       })
       .filter((product) => {
         // для поиска по наличию товара:
-        if (searchInStock === "false") return product;
+        if (searchInStock !== "true") return product;
         return product.qty > 0;
       })
       .filter((product, index) => {
