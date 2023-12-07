@@ -33,7 +33,7 @@
   top: 124px;
   left: 50%;
   z-index: 100;
-  width: 60%;
+  max-width: 900px;
   transform: translateX(-50%);
   background-color: $color-background;
 

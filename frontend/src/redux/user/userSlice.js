@@ -13,8 +13,8 @@ const initialState = {
   showForm: false,
   formType: "login",
   message: "",
-  productsAmountOnPage: 4,
-  productsQuantityOnPage: 4, // вкл
+  productsAmountOnPage: 8,
+  productsQuantityOnPage: 8, // вкл
   currentSlug: "",
 };
 
