@@ -3,11 +3,11 @@ import { Route, Routes } from "react-router-dom";
 import { useDispatch } from "react-redux";
 
 import styles from "./App.module.scss";
-import ROUTES from "../../utils/routes";
+import ROUTES from "../../utils/routes.js";
 
 import { fetchCategories } from "../../redux/categories/categoriesSlice.js";
-import { fetchProducts } from "../../redux/products/productsSlice";
-import { BASE_URL } from "../../utils/constants";
+import { fetchProducts } from "../../redux/products/productsSlice.js";
+import { BASE_URL } from "../../utils/constants.js";
 
 import MainLayout from "../../layouts/MainLayout";
 import Home from "../../pages/Home/Home";
@@ -16,10 +16,10 @@ import About from "../../pages/About/About";
 import Contacts from "../../pages/Contacts/Contacts";
 import Service from "../../pages/Service/Service";
 import SingleProduct from "../SingleProduct/SingleProduct";
-import SingleCategory from "../SingleCategory/SingleCategory.js";
+import SingleCategory from "../SingleCategory/SingleCategory";
 import Profile from "../Profile/Profile";
-import Cart from "../Cart/Cart.js";
-import Favourites from "../Favourites/Favourites.js";
+import Cart from "../Cart/Cart";
+import Favourites from "../Favourites/Favourites";
 
 function App() {
   const dispatch = useDispatch();

@@ -4,6 +4,7 @@ const path = require("path");
 const fs = require("fs");
 const bodyParser = require("body-parser");
 const { v4: uuid4 } = require("uuid");
+const bcrypt = require("bcryptjs");
 
 const app = express();
 
@@ -110,8 +111,10 @@ app.post("/users/login", (req, res) => {
     if (!user) {
       res.send("Неверное имя пользователя или пароль");
     } else if (user.email !== req.body.email || user.password !== req.body.password) {
+      // } else if (user.email !== req.body.email || bcrypt.compareSync(user.password, req.body.password)) {
       res.send("Неверное имя пользователя или пароль");
     } else if (user.email === req.body.email && user.password === req.body.password) {
+      // } else if (user.email === req.body.email && bcrypt.compareSync(user.password, req.body.password)) {
       res.send(user);
     }
   });
@@ -119,6 +122,7 @@ app.post("/users/login", (req, res) => {
 
 app.post("/users/signup", (req, res) => {
   console.log(req.body);
+  const { email, password, name, avatar } = req.body;
 
   fs.readFile(path.join(__dirname, "db", "users.json"), "utf-8", (err, data) => {
     if (err) throw err;
@@ -126,15 +130,18 @@ app.post("/users/signup", (req, res) => {
     const users = JSON.parse(data);
     const user = users.find((user) => user.email === req.body.email);
 
-    console.log(user);
-
     if (user) {
       res.send("Такой пользователь уже есть");
     } else {
       res.send("Профиль создан");
-      console.log("Запись");
+      // const hashPassword = bcrypt.hashSync(password, 10);
+      const hashPassword = password;
       const newUser = {
-        ...req.body,
+        // ...req.body,
+        email,
+        hashPassword,
+        name,
+        avatar,
         id: uuid4(),
         role: "costomer",
       };

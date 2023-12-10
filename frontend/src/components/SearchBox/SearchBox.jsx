@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 import styles from "./SearchBox.module.scss";
 
-import highlightMatch from "../../utils/highlightMatch";
+import highlightMatch from "../../utils/highlightMatch.js";
 
 import { useGetProductsQuery } from "../../redux/api/apiSlice.js";
 

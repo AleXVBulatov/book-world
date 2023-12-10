@@ -3,14 +3,14 @@ import { Link, useNavigate } from "react-router-dom";
 import { useDispatch, useSelector } from "react-redux";
 
 import styles from "./Header.module.scss";
-import ROUTES from "../../utils/routes";
+import ROUTES from "../../utils/routes.js";
 import logo from "../../images/logo/logo-header.png";
-import { toggleForm, selectUser, selectCart, selectFavourites } from "../../redux/user/userSlice";
+import { toggleForm, selectUser, selectCart, selectFavourites } from "../../redux/user/userSlice.js";
 
 import { BsSearch, BsTelephone, BsHeart, BsCart } from "react-icons/bs";
 import { IoClose } from "react-icons/io5";
 import { PiUserLight } from "react-icons/pi";
-import SearchBox from "../SearchBox/SearchBox.js";
+import SearchBox from "../SearchBox/SearchBox";
 
 const Header = () => {
   const dispatch = useDispatch();

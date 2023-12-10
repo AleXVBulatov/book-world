@@ -4,14 +4,14 @@ import { useSelector } from "react-redux";
 
 import styles from "./MainLayout.module.scss";
 
-import { selectViewedProducts } from "../redux/user/userSlice";
+import { selectViewedProducts } from "../redux/user/userSlice.js";
 
-import Header from "../components/Header/Header.js";
-import Footer from "../components/Footer/Footer.js";
-import Navigation from "../components/Navigation/Navigation.js";
-import Sidebar from "../components/Sidebar/Sidebar.js";
-import Products from "../components/Products/Products.js";
-import UserForm from "../components/User/UserForm.js";
+import Header from "../components/Header/Header.jsx";
+import Footer from "../components/Footer/Footer.jsx";
+import Navigation from "../components/Navigation/Navigation.jsx";
+import Sidebar from "../components/Sidebar/Sidebar.jsx";
+import Products from "../components/Products/Products.jsx";
+import UserForm from "../components/User/UserForm.jsx";
 
 const MainLayout = () => {
   const list = useSelector(selectViewedProducts);
